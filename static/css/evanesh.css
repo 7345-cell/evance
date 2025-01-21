@@ -1,0 +1,19 @@
+h2{
+    color: #55e0e0;
+    text-align: center;
+    font-family: "Century Schoolbook L";
+    text-align: center;
+    font-size: 30px;
+}
+td,th{
+    border: 2px solid #eed7d7;
+    padding: 10px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+th{
+    color: #d85a5a;
+}
